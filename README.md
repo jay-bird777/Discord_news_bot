@@ -2,7 +2,7 @@
 
 **CyberNewsBot** is a Python-based Discord bot that delivers the **top 3 daily cybersecurity news headlines** directly into a designated channel in your Discord server. It also includes a web server to keep it running 24/7 using Replit + UptimeRobot.
 
-> Built with ❤️ by [Jacore Baptiste](https://www.linkedin.com/in/your-profile) as part of the Year Up program to support peer learning and awareness in the cybersecurity community.
+> Built with ❤️ by [Jacore Baptiste](https://www.linkedin.com/in/jacore-baptiste) as part of the Year Up program to support peer learning and awareness in the cybersecurity community.
 
 ---
 
@@ -88,8 +88,7 @@
 ## 📬 Contact
 
 Built by **Jacore Baptiste**  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 Email: your.email@example.com
+🌐 [LinkedIn](https://www.linkedin.com/in/jacore-baptiste)  
 
 ---
 
@@ -99,7 +98,7 @@ If this bot helped you or inspired your own project:
 
 ⭐️ Star this repo  
 🔀 Fork it  
-📢 Share with your friends or Year Up peers  
+📢 Share with your friends or peers  
 
 ---
 
